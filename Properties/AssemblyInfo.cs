@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("SubtitlesPlayer")]
+[assembly: AssemblyTitle("SubtitlesViewer")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("SubtitlesPlayer")]
-[assembly: AssemblyCopyright("Copyright ©  2018")]
+[assembly: AssemblyProduct("SubtitlesViewer")]
+[assembly: AssemblyCopyright("Copyright ©  2019 Wave-Rider")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
